@@ -1,3 +1,6 @@
+
+#.DS_store / optional - git will stop keeping track of the changes to this file if we add file names into this file.
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
